@@ -5,19 +5,19 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>E75A0A13-4373-43C0-8D04-76F974AB8B51</string>
+	<string>83DF768B-C3B3-4158-B150-DFC118313A3F</string>
 	<key>IDESourceControlProjectName</key>
-	<string>NB</string>
+	<string>Sort1</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>E8B65ECA758E45A29D1EF23387313FADD5EF98C3</key>
+		<key>98FEE5980BBAD9EFC5FD9D918C5212FD8C91C955</key>
 		<string>https://github.com/STEllAR-GROUP/NBody.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>NB/NB.xcodeproj</string>
+	<string>Sort1/Sort1.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>E8B65ECA758E45A29D1EF23387313FADD5EF98C3</key>
+		<key>98FEE5980BBAD9EFC5FD9D918C5212FD8C91C955</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,16 +25,16 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>E8B65ECA758E45A29D1EF23387313FADD5EF98C3</string>
+	<string>98FEE5980BBAD9EFC5FD9D918C5212FD8C91C955</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>E8B65ECA758E45A29D1EF23387313FADD5EF98C3</string>
+			<string>98FEE5980BBAD9EFC5FD9D918C5212FD8C91C955</string>
 			<key>IDESourceControlWCCName</key>
-			<string>NBody</string>
+			<string>NBod</string>
 		</dict>
 	</array>
 </dict>
